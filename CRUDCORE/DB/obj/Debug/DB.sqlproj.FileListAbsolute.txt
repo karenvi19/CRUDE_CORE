@@ -1,0 +1,6 @@
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUDCORE\CRUDCORE\DB\bin\Debug\DB.dacpac
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUDCORE\CRUDCORE\DB\bin\Debug\DB.dll
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUDCORE\CRUDCORE\DB\bin\Debug\DB.pdb
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUDCORE\CRUDCORE\DB\obj\Debug\DB.sqlproj.AssemblyReference.cache
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUDCORE\CRUDCORE\DB\obj\Debug\DB.dll
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUDCORE\CRUDCORE\DB\obj\Debug\DB.pdb
