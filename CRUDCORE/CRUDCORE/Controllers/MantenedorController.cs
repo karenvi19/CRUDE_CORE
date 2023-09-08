@@ -20,10 +20,15 @@ namespace CRUDCORE.Controllers
             return View();
         }
 
-        public IActionResult Guardar1()
+        [HttpPost]
+        public IActionResult Guardar(ContactoModel oContacto)
         {
             //Metodo recibe un objeto y lo guarda en nuestra base de datos
-            return View();
+            var respuesta = _ContactoDatos.Guardar(oContacto);
+            if (respuesta)
+                return RedirectToAction("Listar");
+            else
+                return View();
         }
     }
 }
