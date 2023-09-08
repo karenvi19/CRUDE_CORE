@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE [dbo].[sp_Listar]
+AS
+BEGIN 
+	SELECT * FROM CONTACTO
+END
