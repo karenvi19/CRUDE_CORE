@@ -8,3 +8,9 @@ C:\Karen Gonzalez\Estudio\Todo .Net\CRUDCORE\CRUDCORE\DB\obj\Debug\postdeploy.sq
 C:\Karen Gonzalez\Estudio\Todo .Net\CRUDCORE\CRUDCORE\DB\obj\Debug\predeploy.sql
 C:\Karen Gonzalez\Estudio\Todo .Net\CRUDCORE\CRUDCORE\DB\obj\Debug\DB.dll
 C:\Karen Gonzalez\Estudio\Todo .Net\CRUDCORE\CRUDCORE\DB\obj\Debug\DB.pdb
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUD_CORE\CRUDE_CORE\CRUDCORE\DB\bin\Debug\DBCRUDCORE.dacpac
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUD_CORE\CRUDE_CORE\CRUDCORE\DB\bin\Debug\DB.dll
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUD_CORE\CRUDE_CORE\CRUDCORE\DB\bin\Debug\DB.pdb
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUD_CORE\CRUDE_CORE\CRUDCORE\DB\obj\Debug\DBCRUDCORE.sqlproj.AssemblyReference.cache
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUD_CORE\CRUDE_CORE\CRUDCORE\DB\obj\Debug\DB.dll
+C:\Karen Gonzalez\Estudio\Todo .Net\CRUD_CORE\CRUDE_CORE\CRUDCORE\DB\obj\Debug\DB.pdb
